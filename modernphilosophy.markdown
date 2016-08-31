@@ -6329,7 +6329,7 @@ memory; which is this, that it had been known before, and is now
 remembered.  If therefore there be any innate ideas, they must be in
 the memory, or else nowhere in the mind; and if they be in the memory,
 they can be revived without any impression from without; and whenever
-they are brought into the mind they are remembered, i. E. They bring
+they are brought into the mind they are remembered, i.e., they bring
 with them a perception of their not being wholly new to it. ...
 
 By this it may be tried whether there be any innate ideas in the mind
