@@ -12,6 +12,12 @@ epub : modernphilosophy.markdown
 	modernphilosophy.epub \
 	modernphilosophy.markdown
 
+pdf : modernphilosophy.markdown
+	pandoc -f markdown \
+	--smart --toc -o \
+	modernphilosophy.pdf \
+	modernphilosophy.markdown
+
 clean :
 	rm *~
 	rm *#
