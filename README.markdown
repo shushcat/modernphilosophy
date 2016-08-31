@@ -34,7 +34,7 @@ pandoc is installed, it can be run from the command line.
 For example, `pandoc -f markdown -t html5 --standalone --smart --toc
 -o modernphilosophy.html modernphilosophy.markdown` will convert
 modernphilosophy.markdown to a valid, unformatted HTML5 file (with a table of
-contents and smart quotation marks).  The resulting file will be title
+contents and smart quotation marks).  The resulting file will be titled
 "modernphilosophy.html"
 
 The `modernphilosophy.css` stylesheet can be included with the `-c`
