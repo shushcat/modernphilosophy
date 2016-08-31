@@ -936,7 +936,7 @@ demonstrable things in any real sense is just to have a demonstration
 of them.  The premises must be Prior, Explanatory, Better known [to us]
 and Previously cognized; Explanatory, because we only know a thing
 when we have learned its explanation; Prior, if they are to be
-explanatory; Previously known not only in our second sense, viz.  That
+explanatory; Previously known not only in our second sense, viz. that
 their meaning is understood, but that one knows that they are true.
 
 ### Book One, Chapter Four
@@ -6522,7 +6522,7 @@ sensible ideas; nor conceive any alteration to be made, but by
 conceiving a change of some of its ideas.
 
 (From II.xxi.2---_Power, active and passive_) Power thus considered is
-two-fold, viz. As able to make, or able to receive any change.  The one
+two-fold, viz. as able to make, or able to receive any change.  The one
 may be called **active**, and the other **passive** power.  Whether
 matter be not wholly destitute of active power, as its author, God, is
 truly above all passive power; and whether the intermediate state of
@@ -6555,7 +6555,7 @@ observe.
 afford us so clear and distinct an idea of active power, as we have
 from reflection on the operations of our minds.  For all power relating
 to action, and there being but two sorts of action whereof we have an
-idea, viz. Thinking and motion, let us consider whence we have the
+idea, viz. thinking and motion, let us consider whence we have the
 clearest ideas of the powers which produce these actions.
 
 (i) Of thinking, body affords us no idea at all; it is only from
@@ -6632,7 +6632,7 @@ when it does touch, operate any other way than by motion.
 (From II.viii.13---_How secondary Qualities produce their ideas_)
 After the same manner that the ideas of these original qualities are
 produced in us, we may conceive that the ideas of **secondary**
-qualities are also produced, viz. By the operation of insensible
+qualities are also produced, viz. by the operation of insensible
 particles on our senses. ... [L]et us suppose at present that, the
 different motions and figures, bulk and number, of such particles,
 affecting the several organs of our senses, produce in us those
@@ -6647,7 +6647,7 @@ said concerning colours and smells may be understood also of tastes
 and sounds, and other the like sensible qualities; which, whatever
 reality we by mistake attribute to them, are in truth nothing in the
 objects themselves, but powers to produce various sensations in us;
-and depend on those primary qualities, viz. Bulk, figure, texture, and
+and depend on those primary qualities, viz. bulk, figure, texture, and
 motion of parts and therefore I call them **secondary qualities**.
 
 (From II.viii.15---_Ideas of primary Qualities are Resemblances; of
@@ -7063,7 +7063,7 @@ extension.
 (From II.xiii.11---_Extension and Body not the same_) There are some
 that would persuade us, that body and extension are the same thing
 ...  If, therefore, they mean by body and extension the same that other
-people do, viz.  By **body** something that is solid and extended,
+people do, viz. by **body** something that is solid and extended,
 whose parts are separable and movable different ways; and by
 **extension**, only the space that lies between the extremities of
 those solid coherent parts, and which is possessed by them, [then]
